@@ -51,7 +51,7 @@ nav {
   border-radius: 2px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
   .nav-links {
     width: 50%;
   }
@@ -81,7 +81,7 @@ nav {
     transform: translateX(100%);
   }
 
-  .nav-link li{
+  .nav-link li {
     opacity: 0;
   }
 
